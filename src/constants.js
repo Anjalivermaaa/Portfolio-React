@@ -129,7 +129,7 @@ export const projects = [
         desc: "A personal portfolio website to showcase my skills, projects, and experience. Built with React and Tailwind CSS for a modern and responsive design.",
         image: portfolioImg,
         techStack: ["Tailwind CSS", "React JS", "Email JS"],
-        github: "",//"https://test.com",
+        github: "https://github.com/Anjalivermaaa/Portfolio-React",//"https://test.com",
         webApp: "https://anjalicodes.netlify.app/"
     },
     {
